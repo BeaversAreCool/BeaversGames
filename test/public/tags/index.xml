@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on BeaversGames</title>
+    <link>http://beaversgames.com/tags/</link>
+    <description>Recent content in Tags on BeaversGames</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://beaversgames.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>development</title>
+      <link>http://beaversgames.com/tags/development/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://beaversgames.com/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dungeons</title>
+      <link>http://beaversgames.com/tags/dungeons/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://beaversgames.com/tags/dungeons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>games</title>
+      <link>http://beaversgames.com/tags/games/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://beaversgames.com/tags/games/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

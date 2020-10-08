@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dungeons on BeaversGames</title>
+    <link>http://beaversgames.com/tags/dungeons/</link>
+    <description>Recent content in dungeons on BeaversGames</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://beaversgames.com/tags/dungeons/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Know Your Dungeons</title>
+      <link>http://beaversgames.com/post/emoji-support/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://beaversgames.com/post/emoji-support/</guid>
+      <description>Dungeons can boost your game&amp;rsquo;s intensity with a sense of foreboding and danger!
+ Change the World by being Yourself.
+ Beavers Dig Better Dungeons! Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</description>
+    </item>
+    
+  </channel>
+</rss>

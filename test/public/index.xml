@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BeaversGames</title>
+    <link>http://beaversgames.com/</link>
+    <description>Recent content on BeaversGames</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Aug 2019 00:52:59 +0300</lastBuildDate>
+    
+	<atom:link href="http://beaversgames.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About BeaversGames</title>
+      <link>http://beaversgames.com/about/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://beaversgames.com/about/</guid>
+      <description>BeaversGames is the world’s greatest website for staying motivated while learning game development.
+ But Wait! There&amp;rsquo;s More&amp;hellip; Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with BeaversGames</title>
+      <link>http://beaversgames.com/post/hugoisforlovers/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://beaversgames.com/post/hugoisforlovers/</guid>
+      <description>Getting started with BeaversGames is easy, fun, and rewarding!
+ Change the World by being Yourself.
+ BeaversGames Means Business! Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</description>
+    </item>
+    
+    <item>
+      <title>How to Get Started as a Game Developer</title>
+      <link>http://beaversgames.com/post/goisforlovers/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://beaversgames.com/post/goisforlovers/</guid>
+      <description>Getting started as a game developer is like trying to drink the ocean.
+ Change the World by being Yourself.
+ Get Started Today! Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</description>
+    </item>
+    
+    <item>
+      <title>Know Your Dungeons</title>
+      <link>http://beaversgames.com/post/emoji-support/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://beaversgames.com/post/emoji-support/</guid>
+      <description>Dungeons can boost your game&amp;rsquo;s intensity with a sense of foreboding and danger!
+ Change the World by being Yourself.
+ Beavers Dig Better Dungeons! Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</description>
+    </item>
+    
+    <item>
+      <title>Level Building For Newbies</title>
+      <link>http://beaversgames.com/post/creating-a-new-theme/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://beaversgames.com/post/creating-a-new-theme/</guid>
+      <description>Just getting started? Build levels faster by avoiding these 10 pitfalls.
+ Any Beaver will tell you to never bite off more than you can chew.
+ Never Bite Off More Than You Can Chew Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</description>
+    </item>
+    
+    <item>
+      <title>Whoop It Up With The Beavers!</title>
+      <link>http://beaversgames.com/post/migrate-from-jekyll/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://beaversgames.com/post/migrate-from-jekyll/</guid>
+      <description>Get your whoop on!!
+ Change the World by being Yourself.
+ BeaversGames Is Making A Difference! Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</description>
+    </item>
+    
+  </channel>
+</rss>
