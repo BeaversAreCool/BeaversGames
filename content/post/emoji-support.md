@@ -1,18 +1,97 @@
 +++
-author = "The BG Team"
-title = "Know Your Dungeons"
-date = "2020-09-25"
-description = "Guide to Building a Dungeon Level in One Afternoon"
-tags = ["dungeons"]
-image = "frustrated.jpg"
+author = "Hugo Authors"
+title = "Emoji Support"
+date = "2019-03-05"
+description = "Guide to emoji usage in Hugo"
+tags = ["emoji"]
+image = "artist.jpg"
 +++
 
-Dungeons can boost your game's intensity with a sense of foreboding and danger!
+Emoji can be enabled in a Hugo project in a number of ways.
+<!--more-->
 
-> Change the World by being Yourself.
+The `[emojify](https://gohugo.io/functions/emojify/)` function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes).
 
-## Beavers Dig Better Dungeons!
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+To enable emoji globally, set `enableEmoji` to `true` in your site’s [configuration](https://gohugo.io/getting-started/configuration/) and then you can type emoji shorthand codes directly in content files; e.g.
 
-## Make It Deeper, Not Wider!
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
+<br>
+
+The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.
+
+***
+
+**N.B.** The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.
+
+### Inline CSS
+
+```html
+<style>
+  .emojify {
+    font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
+    font-size: 2rem;
+    vertical-align: middle;
+  }
+  @media screen and (max-width:650px) {
+    .nowrap {
+      display: block;
+      margin: 25px 0;
+    }
+  }
+</style>
+```
+
+### Javascript
+
+```javascript
+function createEl(element) {
+  return document.createElement(element);
+}
+
+function elem(selector, parent = document){
+  let elem = parent.querySelector(selector);
+  return elem != false ? elem : false;
+}
+
+let navBar = elem(`.${bar}`);
+let nav = elem('.nav-body');
+let open = 'nav-open';
+let exit = 'nav-exit';
+let drop = 'nav-drop';
+let pop = 'nav-pop';
+let navDrop = elem(`.${drop}`);
+let hidden = 'hidden';
+
+```
+
+### Swift
+
+```swift
+class Person {
+  var residence: Residence?
+}
+
+class Residence {
+  var rooms = [Room]()
+  var numberOfRooms: Int {
+    return rooms.count
+  }
+
+  
+  subscript(i: Int) -> Room {
+    get {
+      return rooms[i]
+    }
+    set {
+      rooms[i] = newValue
+    }
+  }
+  
+  func printNumberOfRooms() {
+    print("The number of rooms is \(numberOfRooms)")
+  }
+
+  var address: Address?
+
+}
+```
